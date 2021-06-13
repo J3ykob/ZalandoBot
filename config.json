@@ -1,0 +1,31 @@
+{
+	"account_data": [
+		{
+			"user": "email1@gmail.com",
+			"pass": "password"
+		},
+		{
+			"user": "email2@gmail.com",
+			"pass": "password"
+		}
+	],
+	"skus": [
+		"JOC11A02F-A110005000",
+		"JOC11A02F-A110055000",
+		"JOC11A02F-A110006000",
+		"JOC11A02F-A110065000",
+		"JOC11A02F-A110007000",
+		"JOC11A02F-A110075000",
+		"JOC11A02F-A110008000",
+		"JOC11A02F-A110085000",
+		"JOC11A02F-A110009000",
+		"JOC11A02F-A110095000",
+		"JOC11A02F-A110010000",
+		"JOC11A02F-A110105000",
+		"JOC11A02F-A110011000",
+		"NI113D0C9-A11030Y000"
+	],
+	"proxies": ["45.82.196.55:7771:pass:pass", "196.17.161.222:7771:pass:pass"],
+	"reloadTime": 2137,
+	"startTime": 0
+}
